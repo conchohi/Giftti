@@ -33,8 +33,19 @@ https://youtu.be/-1_zAzSrjbA?si=D6NCf3hU6USY2-e_
 
 ---
 ### # 사용자 페이지
+##### # 메인 페이지
 <img width="1331" alt="KakaoTalk_Photo_2024-04-22-22-59-10" src="https://github.com/hyeran0920/JavaMiniProject/assets/93534308/f07097c6-c9fc-4537-8188-5e5f8588b0b4">
 
+##### # 상품 목록 페이지
+<img width="1028" alt="상품목록" src="https://github.com/conchohi/Giftti/assets/156064008/142ad94c-d9e7-4dee-95d4-fb862b76e058">
+
+##### # 상품 상세 페이지
+<img width="1049" alt="상품상세" src="https://github.com/conchohi/Giftti/assets/156064008/edc4a110-6d17-4106-9ee0-4c35461575f8">
+
+##### # 판매 등록 페이지
+<img width="1032" alt="판매 등록" src="https://github.com/conchohi/Giftti/assets/156064008/dbceaf71-18f8-4729-b4f3-0b6c9c8ebf53">
+
+---
 ### # 관리자 페이지
 ![IMG_DAFF43C25F66-1](https://github.com/hyeran0920/JavaMiniProject/assets/93534308/59047f7f-e424-4847-84dd-93ffaafa4d01)
 
