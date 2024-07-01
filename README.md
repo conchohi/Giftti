@@ -103,3 +103,7 @@ https://youtu.be/-1_zAzSrjbA?si=D6NCf3hU6USY2-e_
 - 거래 : *.trans
 - 고객지원 : *.customerservice
 - 로그인 : *.do
+
+---
+### # 시연 영상
+<a href="https://www.youtube.com/watch?v=48yzR_39_cI" target="_blank"><img src="https://github.com/hyeran0920/JavaMiniProject/assets/156064008/4b5e4d27-6700-49a4-ba40-1f7deaf4db30" width="500" height="300"/></a>
