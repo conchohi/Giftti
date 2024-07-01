@@ -106,6 +106,8 @@ https://youtu.be/-1_zAzSrjbA?si=D6NCf3hU6USY2-e_
 
 ---
 ### # 발표 자료, 시연 영상
+<div align="center">
 <a href="https://www.canva.com/design/DAF_YNY4CZA/TnZRUchlBjnnHbWvAV1cRQ/edit?utm_content=DAF_YNY4CZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img width="885" alt="발표자료" src="https://github.com/conchohi/Giftti/assets/156064008/855b33f4-60f6-47ab-add9-4adf2b8ed3f4">
 </a> 
 <a href="https://youtu.be/-1_zAzSrjbA?si=D6NCf3hU6USY2-e_" target="_blank"><img src="https://github.com/hyeran0920/JavaMiniProject/assets/156064008/4b5e4d27-6700-49a4-ba40-1f7deaf4db30" width="300" height="300"/></a>
+</div>
